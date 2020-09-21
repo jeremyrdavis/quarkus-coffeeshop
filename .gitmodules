@@ -1,0 +1,15 @@
+[submodule "quarkus-coffeeshop-inventory"]
+	path = quarkus-coffeeshop-inventory
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-inventory.git
+[submodule "quarkus-coffeeshop-web"]
+	path = quarkus-coffeeshop-web
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-web.git
+[submodule "quarkus-coffeeshop-customermocker"]
+	path = quarkus-coffeeshop-customermocker
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-customermocker.git
+[submodule "quarkus-coffeeshop-kitchen"]
+	path = quarkus-coffeeshop-kitchen
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-kitchen.git
+[submodule "quarkus-coffeeshop-barista"]
+	path = quarkus-coffeeshop-barista
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-barista.git
