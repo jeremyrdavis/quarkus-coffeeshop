@@ -14,10 +14,10 @@
     <module>quarkus-coffeeshop-barista</module>
     <module>quarkus-coffeeshop-kitchen</module>
     <module>quarkus-coffeeshop-web</module>
-    <module>quarkus-coffeeshop-customermocker<module>
+    <module>quarkus-coffeeshop-customermocker</module>
     <module>quarkus-coffeeshop-inventory</module>
-    <!--
-    -->
+
+
   </modules>
 
 </project>
