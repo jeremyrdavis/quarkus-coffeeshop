@@ -13,3 +13,12 @@
 [submodule "quarkus-coffeeshop-barista"]
 	path = quarkus-coffeeshop-barista
 	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-barista.git
+[submodule "quarkus-coffeeshop-core"]
+	path = quarkus-coffeeshop-core
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-core.git
+[submodule "quarkus-coffeeshop-domain"]
+	path = quarkus-coffeeshop-domain
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-domain.git
+[submodule "quarkus-coffeeshop-testutils"]
+	path = quarkus-coffeeshop-testutils
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-testutils.git
