@@ -7,15 +7,15 @@
   <version>3.0.0</version>
   <name>Quarkus, Kafka, and Kubernetes</name>
   <modules>
-    <module>quarkus-cafe-parent</module>
-    <module>quarkus-cafe-domain</module>
-    <module>quarkus-cafe-test-utils</module>
-    <module>quarkus-cafe-core</module>
-    <module>quarkus-cafe-barista</module>
-    <module>quarkus-cafe-kitchen</module>
-    <module>quarkus-cafe-web</module>
-    <module>quarkus-cafe-customermock</module>
-    <module>quarkus-cafe-json-service</module>
+    <module>quarkus-coffeeshop-parent</module>
+    <module>quarkus-coffesshop-domain</module>
+    <module>quarkus-coffeeshop-test-utils</module>
+    <module>quarkus-coffeeshop-core</module>
+    <module>quarkus-coffeeshop-barista</module>
+    <module>quarkus-coffeeshop-kitchen</module>
+    <module>quarkus-coffeeshop-web</module>
+    <module>quarkus-coffeeshop-customermock</module>
+    <module>quarkus-coffeeshop-inventory</module>
     <!--
     -->
   </modules>

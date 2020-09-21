@@ -22,3 +22,6 @@
 [submodule "quarkus-coffeeshop-testutils"]
 	path = quarkus-coffeeshop-testutils
 	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-testutils.git
+[submodule "quarkus-coffeeshop-parent"]
+	path = quarkus-coffeeshop-parent
+	url = https://github.com/jeremyrdavis/quarkus-coffeeshop-parent.git
