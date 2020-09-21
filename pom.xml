@@ -8,8 +8,8 @@
   <name>Quarkus, Kafka, and Kubernetes</name>
   <modules>
     <module>quarkus-coffeeshop-parent</module>
-    <module>quarkus-coffesshop-domain</module>
-    <module>quarkus-coffeeshop-test-utils</module>
+    <module>quarkus-coffeeshop-domain</module>
+    <module>quarkus-coffeeshop-testutils</module>
     <module>quarkus-coffeeshop-core</module>
     <module>quarkus-coffeeshop-barista</module>
     <module>quarkus-coffeeshop-kitchen</module>
